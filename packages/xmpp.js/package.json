@@ -41,6 +41,7 @@
     "@xmpp/session-establishment": "^0.9.1",
     "@xmpp/starttls": "^0.9.1",
     "@xmpp/stream-features": "^0.9.0",
+    "@xmpp/stream-management": "^0.9.0",
     "@xmpp/tcp": "^0.9.1",
     "@xmpp/test": "^0.9.1",
     "@xmpp/time": "^0.9.0",

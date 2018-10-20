@@ -233,6 +233,10 @@ Returns a promise that resolves once the stanza is serialized and written to the
 
 See [@xmpp/reconnect](/packages/reconnect).
 
+### xmpp.sm
+
+See [@xmpp/stream-management](/packages/stream-management).
+
 ## Transports
 
 XMPP supports multiple transports, this table list `@xmpp/client` supported and unsupported transport for each environment.
